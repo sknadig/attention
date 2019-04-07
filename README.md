@@ -5,8 +5,8 @@
 * Basics
 
     * [M. Schuster and K. K. Paliwal, “Bidirectional Recurrent Neural Networks,” 1997.](https://pdfs.semanticscholar.org/4b80/89bc9b49f84de43acc2eb8900035f7d492b2.pdf)
-    * [A. Graves and J. Schmidhuber, “Framewise phoneme classification with bidirectional LSTM and other neural network architectures,” Neural Networks, vol. 18, no. 5–6, pp. 602–610, Jul. 2005.](ftp://ftp.idsia.ch/pub/juergen/nn_2005.pdf)
-    * [A. Graves, S. Fernández, and J. Schmidhuber, “Bidirectional LSTM networks for improved phoneme classification and recognition,” Int. Conf. Artif. Neural Networks, pp. 799–804, 2005.](ftp://ftp.idsia.ch/pub/juergen/icann2005graves.pdf)
+    * [A. Graves and J. Schmidhuber, “Framewise phoneme classification with bidirectional LSTM and other neural network architectures,” Neural Networks, vol. 18, no. 5–6, pp. 602–610, Jul. 2005.ftp://ftp.idsia.ch/pub/juergen/nn_2005.pdf]
+    * [A. Graves, S. Fernández, and J. Schmidhuber, “Bidirectional LSTM networks for improved phoneme classification and recognition,” Int. Conf. Artif. Neural Networks, pp. 799–804, 2005.ftp://ftp.idsia.ch/pub/juergen/icann2005graves.pdf]
 
 
 ## CTC
